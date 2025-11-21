@@ -111,10 +111,15 @@ Used slicers, navigation buttons, KPIs, trend charts, pied, donut charts, and ca
 - Reward high-value customers
 
 # Dashboard:
+Home:
 <img width="1516" height="770" alt="Home" src="https://github.com/user-attachments/assets/edf09e89-d402-4405-8679-0e3d7751ed1c" />
+Cancellations: 
 <img width="1489" height="761" alt="Cancellations" src="https://github.com/user-attachments/assets/1263fdfc-b522-4cb7-a6dd-fe1a1f3f955b" />
+Ride Activity:
 <img width="1493" height="766" alt="Ride Activity" src="https://github.com/user-attachments/assets/a1d3ad9e-365b-4fa9-a91e-17f4400a8907" />
+Revenue:
 <img width="1422" height="765" alt="Revenue" src="https://github.com/user-attachments/assets/4e28cd8f-17fe-4cf6-9304-a6b1c9cfc010" />
+Ratings:
 <img width="1441" height="772" alt="Ratings" src="https://github.com/user-attachments/assets/6c796801-ffef-4ce0-b122-2b8ecea3edd1" />
 
 
