@@ -62,12 +62,12 @@ Used slicers, navigation buttons, KPIs, trend charts, pie, donut charts, and car
    Autos & Go Mini are the most frequently booked vehicles
    
 ## 2. Cancellations ❌
-   Total incomplete rides: 9K
-   Top customer reasons:
+Total incomplete rides: 9K
+   Top customer reasons to cancel rides:
    - Wrong address
    - Change of plans
    - Driver not moving
-   Top driver reasons:
+   Top driver reasons to cancel rides:
    - Customer misconduct
    - More passengers than allowed
    - Personal/vehicle issues
@@ -76,10 +76,11 @@ Used slicers, navigation buttons, KPIs, trend charts, pie, donut charts, and car
 - Auto generates the highest revenue at ₹12.9M
 - Go Mini, Go Sedan follow next
 - UPI (45%) is the most used payment method
+- January, March and October saw rise in revenue.
 
 ## 4. Ratings 5️⃣
-   Customer ratings highest for: Uber XL & Premier Sedan
-   Driver ratings lowest for: Auto & Go Sedan (needs improvement)
+   Customer ratings are highest for Uber XL & Premier Sedan.
+   Driver ratings are lowest for Auto & Go Sedan (needs improvement).
 
 ## 5. Ride Distance Pattern 🧩
    Ride distances grouped into 1–10, 11–20, 21–30 km groups show consistent booking volume
@@ -88,21 +89,21 @@ Used slicers, navigation buttons, KPIs, trend charts, pie, donut charts, and car
 # Business Recommendations 💡
 
 ## 1. Reduce Cancellations
-- Allow customers to easily change pickup location
-- Improve driver movement tracking in-app
-- Introduce cancellation penalties only after proper investigation
+- Allow customers to easily change pickup location.
+- Improve driver movement tracking in-app.
+- Introduce cancellation penalties only after proper investigation.
 
 ## 2. Fleet Optimization
-- Increase Auto/Go Mini supply during mornings
-- Improve XL & Premier Sedan availability on weekends/evenings
+- Increase Auto or Go Mini supply during mornings.
+- Improve XL & Premier Sedan availability on evenings.
 
 ## 3. Improve Driver Ratings
-- Targeted training for Auto & Go Sedan drivers
-- Improve navigation & customer interaction guidelines
+- Targeted training for Auto & Go Sedan drivers.
+- Improve navigation & customer interaction guidelines.
 
 ## 4. Revenue Growth
-- Offer deals during slow months (Feb, Sept)
-- Promote UPI/wallet payments with cashback
+- Offer deals during slow months (Feb, Sept).
+- Promote UPI and wallet payments with cashback.
 
 ## 5. Customer Satisfaction
 - Quick resolution for vehicle breakdown & AC complaints
