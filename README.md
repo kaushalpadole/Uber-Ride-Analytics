@@ -25,8 +25,6 @@ Performed significant preprocessing in Excel, including:
 - Created Ride Distance column
 - Ensured numeric/decimal values were modeled correctly
 
-Excel prepared a clean and analysis-ready dataset.
-
 ## 2. Power BI – Data Modeling & DAX
 
 - Imported cleaned Excel dataset
@@ -42,7 +40,7 @@ Created an app-like, multi-page Power BI dashboard with:
 
 Home - Cancellations - Ride Activity - Revenue - Ratings
 
-Used slicers, navigation buttons, KPIs, trend charts, pied, donut charts, and card visuals.
+Used slicers, navigation buttons, KPIs, trend charts, pie, donut charts, and card visuals.
 
 # Skills Used 🤹
 
