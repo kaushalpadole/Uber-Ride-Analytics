@@ -1,9 +1,9 @@
-# Uber-Ride-Analytics 🚕
+# Uber-Ride-Analytics 
 
 This project analyzes Uber bookings, cancellations, ratings, and revenue using a combination of Excel for data cleaning & feature creation and Power BI for modeling, DAX, and dashboard visualization.
 The dashboard highlights peak demand times, cancellation reasons, revenue distribution, and customer/driver behavior—all of which help in improving operational efficiency and ride experience.
 
-# Business Problem ❔
+# Business Problem:
 
 Uber needs to solve challenges like:
 
@@ -15,7 +15,7 @@ Uber needs to solve challenges like:
 
 The aim is to extract actionable insights that improve customer satisfaction, ride completion, and revenue.
 
-# Methodology 🪜 
+# Methodology:
 ## 1. Excel – Data Cleaning & Feature Engineering: 
 Performed significant preprocessing in Excel, including:
 
@@ -42,7 +42,7 @@ Home - Cancellations - Ride Activity - Revenue - Ratings
 
 Used slicers, navigation buttons, KPIs, trend charts, pie, donut charts, and card visuals.
 
-# Skills Used 🤹
+# Skills Used:
 
 1. Excel Skills
 2. Data Cleaning
@@ -56,7 +56,7 @@ Used slicers, navigation buttons, KPIs, trend charts, pie, donut charts, and car
 11. Customer & Driver Behavior Study
 12. Insight Storytelling
 
-# Results 🔍 
+# Results:
 ## 1. Ride Demand 📈
    Morning has the highest bookings (45K)
    Autos & Go Mini are the most frequently booked vehicles
@@ -86,7 +86,7 @@ Total incomplete rides: 9K
    Ride distances grouped into 1–10, 11–20, 21–30 km groups show consistent booking volume
    Longer rides (>40 km) have lower volume but higher value
 
-# Business Recommendations 💡
+# Business Recommendations:
 
 ## 1. Reduce Cancellations
 - Allow customers to easily change pickup location.
