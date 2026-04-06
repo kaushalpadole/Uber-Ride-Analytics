@@ -111,14 +111,14 @@ Total incomplete rides: 9K
 
 # Dashboard:
 Home:
-<img width="1516" height="770" alt="Home" src="https://github.com/user-attachments/assets/edf09e89-d402-4405-8679-0e3d7751ed1c" />
+<img width="1516" height="770" alt="Home" src="https://github.com/kaushalpadole/Uber-Ride-Analytics/blob/main/assets/Home.png?raw=true"/>
 Cancellations: 
-<img width="1489" height="761" alt="Cancellations" src="https://github.com/user-attachments/assets/1263fdfc-b522-4cb7-a6dd-fe1a1f3f955b" />
+<img width="1489" height="761" alt="Cancellations" src="https://github.com/kaushalpadole/Uber-Ride-Analytics/blob/main/assets/Cancellations.png?raw=true" />
 Ride Activity:
-<img width="1493" height="766" alt="Ride Activity" src="https://github.com/user-attachments/assets/a1d3ad9e-365b-4fa9-a91e-17f4400a8907" />
+<img width="1493" height="766" alt="Ride Activity" src="https://github.com/kaushalpadole/Uber-Ride-Analytics/blob/main/assets/Ride%20Activity.png?raw=true" />
 Revenue:
-<img width="1422" height="765" alt="Revenue" src="https://github.com/user-attachments/assets/4e28cd8f-17fe-4cf6-9304-a6b1c9cfc010" />
+<img width="1422" height="765" alt="Revenue" src="https://github.com/kaushalpadole/Uber-Ride-Analytics/blob/main/assets/Revenue.png?raw=true" />
 Ratings:
-<img width="1441" height="772" alt="Ratings" src="https://github.com/user-attachments/assets/6c796801-ffef-4ce0-b122-2b8ecea3edd1" />
+<img width="1441" height="772" alt="Ratings" src="https://github.com/kaushalpadole/Uber-Ride-Analytics/blob/main/assets/Ratings.png?raw=true" />
 
 
