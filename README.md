@@ -44,17 +44,13 @@ Used slicers, navigation buttons, KPIs, trend charts, pie, donut charts, and car
 
 # Skills Used:
 
-1. Excel Skills
-2. Data Cleaning
-3. Creating derived columns (Time of Day, Ride Distance)
-4. Cleaning text, numeric & categorical fields
-5. Power BI Skills
-7. DAX Measures
-8. Analytics Skills
-9. Cancellation Root Cause Analysis
-10. Revenue Interpretation
-11. Customer & Driver Behavior Study
-12. Insight Storytelling
+1. Excel
+2. Power BI
+3. DAX Measures
+4. Cancellation Root Cause Analysis
+5. Revenue Interpretation
+6. Customer & Driver Behavior Study
+7. Insight Storytelling
 
 # Results:
 ## 1. Ride Demand 📈
